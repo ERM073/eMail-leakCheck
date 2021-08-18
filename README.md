@@ -20,3 +20,7 @@ check.pyまたはcheck.exeが入っているフォルダでコマンドプロン
 コマンド↓
 
 pip install cloudscraper
+
+
+
+![スクリーンショット (47)](https://user-images.githubusercontent.com/65692907/129929037-d339943d-a55a-4a00-a7bb-9341f491930f.png)
